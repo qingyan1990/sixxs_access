@@ -1,0 +1,21 @@
+{
+   "author": "aiyanxu",
+   "background": {
+      "scripts": [ "js/background.js"]
+   },
+   "browser_action": {
+      "default_icon": "img/icon-128.png",
+      "default_title": "access-ipv6"
+   },
+   "description": "access the blocked website via sixxs ipv6gate service",
+   "icons": {
+      "128": "img/icon-128.png",
+      "16": "img/icon-16.png",
+      "48": "img/icon-48.png"
+   },
+   "manifest_version": 2,
+   "name": "access-ipv6",
+   "permissions": [ 
+   ],
+   "version": "1.0"
+}
